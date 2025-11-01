@@ -1,0 +1,374 @@
+{
+  "1": [
+    {
+      "question_id": "Q1_1",
+      "question": "What does APR stand for in financial terms?",
+      "options": [
+        { "id": "a", "text": "Annual Percentage Rate" },
+        { "id": "b", "text": "Average Payment Ratio" },
+        { "id": "c", "text": "Annual Profit Return" },
+        { "id": "d", "text": "Applied Payment Rate" }
+      ],
+      "right_answer": "a",
+      "trivia": "APR, or Annual Percentage Rate, represents the yearly cost of borrowing money, including interest and fees. It helps borrowers compare different loan offers more accurately."
+    },
+    {
+      "question_id": "Q1_2",
+      "question": "What is an emergency fund typically used for?",
+      "options": [
+        { "id": "a", "text": "Paying monthly subscriptions" },
+        { "id": "b", "text": "Unplanned expenses or job loss" },
+        { "id": "c", "text": "Buying new gadgets" },
+        { "id": "d", "text": "Investing in cryptocurrency" }
+      ],
+      "right_answer": "b",
+      "trivia": "An emergency fund is meant to cover essential expenses in case of sudden income loss or financial emergencies."
+    },
+    {
+      "question_id": "Q1_3",
+      "question": "What is diversification in investing?",
+      "options": [
+        { "id": "a", "text": "Buying the same stock repeatedly" },
+        { "id": "b", "text": "Spreading investments across asset classes" },
+        { "id": "c", "text": "Putting all money in fixed deposits" },
+        { "id": "d", "text": "Only investing in crypto" }
+      ],
+      "right_answer": "b",
+      "trivia": "Diversification helps reduce risk by spreading investments across different asset classes like stocks, bonds, and real estate."
+    },
+    {
+      "question_id": "Q1_4",
+      "question": "Which of the following is considered a liability?",
+      "options": [
+        { "id": "a", "text": "Car loan" },
+        { "id": "b", "text": "Savings account" },
+        { "id": "c", "text": "Mutual fund" },
+        { "id": "d", "text": "Gold jewelry" }
+      ],
+      "right_answer": "a",
+      "trivia": "A car loan is money owed to a lender, making it a liability on your balance sheet."
+    },
+    {
+      "question_id": "Q1_5",
+      "question": "What is a good credit score range (approx)?",
+      "options": [
+        { "id": "a", "text": "300–500" },
+        { "id": "b", "text": "500–650" },
+        { "id": "c", "text": "650–900" },
+        { "id": "d", "text": "900–1100" }
+      ],
+      "right_answer": "c",
+      "trivia": "A credit score between 650–900 is generally considered good, showing you manage credit responsibly."
+    }
+  ],
+  "2": [
+    {
+      "question_id": "Q2_1",
+      "question": "What does APR stand for in finance?",
+      "options": [
+        { "id": "a", "text": "Annual Percentage Rate" },
+        { "id": "b", "text": "Annual Payment Ratio" },
+        { "id": "c", "text": "Applied Payment Rate" },
+        { "id": "d", "text": "Average Payback Rate" }
+      ],
+      "right_answer": "a",
+      "trivia": "APR measures the yearly cost of borrowing money, including interest and fees, expressed as a percentage."
+    },
+    {
+      "question_id": "Q2_2",
+      "question": "What does the term ‘inflation’ mean?",
+      "options": [
+        { "id": "a", "text": "An increase in purchasing power" },
+        { "id": "b", "text": "A general rise in prices of goods and services" },
+        { "id": "c", "text": "A decrease in production" },
+        { "id": "d", "text": "A fall in employment levels" }
+      ],
+      "right_answer": "b",
+      "trivia": "Inflation means the general price level of goods and services rises, reducing the purchasing power of money."
+    },
+    {
+      "question_id": "Q2_3",
+      "question": "What is compound interest?",
+      "options": [
+        { "id": "a", "text": "Interest on the original amount only" },
+        { "id": "b", "text": "Interest earned on both principal and accumulated interest" },
+        { "id": "c", "text": "Interest added monthly" },
+        { "id": "d", "text": "Simple bank interest" }
+      ],
+      "right_answer": "b",
+      "trivia": "Compound interest grows faster because you earn interest on both your original money and the interest already added."
+    },
+    {
+      "question_id": "Q2_4",
+      "question": "What does a stock dividend represent?",
+      "options": [
+        { "id": "a", "text": "A company's profit shared with shareholders" },
+        { "id": "b", "text": "An employee bonus" },
+        { "id": "c", "text": "A loan repayment" },
+        { "id": "d", "text": "An interest payment" }
+      ],
+      "right_answer": "a",
+      "trivia": "A dividend is a portion of a company’s profits distributed to shareholders as a reward for investing."
+    },
+    {
+      "question_id": "Q2_5",
+      "question": "What does GDP measure?",
+      "options": [
+        { "id": "a", "text": "Government Debt Percentage" },
+        { "id": "b", "text": "Gross Domestic Product" },
+        { "id": "c", "text": "Global Demand Power" },
+        { "id": "d", "text": "Gross Debt Payable" }
+      ],
+      "right_answer": "b",
+      "trivia": "GDP measures the total value of goods and services produced within a country's borders in a specific time period."
+    }
+  ],
+  "3": [
+    {
+      "question_id": "Q3_1",
+      "question": "What is a mutual fund?",
+      "options": [
+        { "id": "a", "text": "A pool of money managed by professionals to invest in securities" },
+        { "id": "b", "text": "A personal savings account" },
+        { "id": "c", "text": "A government loan" },
+        { "id": "d", "text": "A type of insurance" }
+      ],
+      "right_answer": "a",
+      "trivia": "Mutual funds collect money from investors and invest it in diversified securities to minimize risk."
+    },
+    {
+      "question_id": "Q3_2",
+      "question": "What is the purpose of a credit report?",
+      "options": [
+        { "id": "a", "text": "To track your investments" },
+        { "id": "b", "text": "To summarize your credit history and repayment behavior" },
+        { "id": "c", "text": "To show your income statement" },
+        { "id": "d", "text": "To list your assets" }
+      ],
+      "right_answer": "b",
+      "trivia": "A credit report shows how you manage credit, including loans and credit card payments, helping lenders assess risk."
+    },
+    {
+      "question_id": "Q3_3",
+      "question": "What does ROI stand for?",
+      "options": [
+        { "id": "a", "text": "Rate of Inflation" },
+        { "id": "b", "text": "Return on Investment" },
+        { "id": "c", "text": "Revenue of Industry" },
+        { "id": "d", "text": "Risk of Investment" }
+      ],
+      "right_answer": "b",
+      "trivia": "ROI measures how much profit you make relative to the cost of your investment, expressed as a percentage."
+    },
+    {
+      "question_id": "Q3_4",
+      "question": "What is a bond?",
+      "options": [
+        { "id": "a", "text": "A type of ownership in a company" },
+        { "id": "b", "text": "A loan made by an investor to a borrower" },
+        { "id": "c", "text": "A mutual fund type" },
+        { "id": "d", "text": "A form of insurance" }
+      ],
+      "right_answer": "b",
+      "trivia": "Bonds are debt instruments where investors lend money to governments or corporations in exchange for interest."
+    },
+    {
+      "question_id": "Q3_5",
+      "question": "What is the role of a central bank?",
+      "options": [
+        { "id": "a", "text": "To lend money to individuals" },
+        { "id": "b", "text": "To regulate monetary policy and control inflation" },
+        { "id": "c", "text": "To sell government properties" },
+        { "id": "d", "text": "To collect taxes" }
+      ],
+      "right_answer": "b",
+      "trivia": "The central bank manages money supply, sets interest rates, and ensures financial stability."
+    }
+  ],
+  "4": [
+    {
+      "question_id": "Q4_1",
+      "question": "What is the Efficient Market Hypothesis (EMH)?",
+      "options": [
+        { "id": "a", "text": "Markets always reflect all available information" },
+        { "id": "b", "text": "Markets are controlled by government policy" },
+        { "id": "c", "text": "Stock prices never change" },
+        { "id": "d", "text": "Markets can always be predicted" }
+      ],
+      "right_answer": "a",
+      "trivia": "According to EMH, stock prices fully reflect all available information, making it hard to consistently outperform the market."
+    },
+    {
+      "question_id": "Q4_2",
+      "question": "What is short selling?",
+      "options": [
+        { "id": "a", "text": "Selling stocks you don’t own, hoping prices fall" },
+        { "id": "b", "text": "Buying stocks and holding them long-term" },
+        { "id": "c", "text": "Selling government bonds" },
+        { "id": "d", "text": "Selling items for short-term profit" }
+      ],
+      "right_answer": "a",
+      "trivia": "Short selling involves borrowing a stock to sell it at a higher price and repurchasing later at a lower price for profit."
+    },
+    {
+      "question_id": "Q4_3",
+      "question": "What does diversification aim to reduce?",
+      "options": [
+        { "id": "a", "text": "Risk" },
+        { "id": "b", "text": "Return" },
+        { "id": "c", "text": "Taxes" },
+        { "id": "d", "text": "Inflation" }
+      ],
+      "right_answer": "a",
+      "trivia": "Diversification spreads investments across different assets to reduce overall portfolio risk."
+    },
+    {
+      "question_id": "Q4_4",
+      "question": "What is a hedge fund?",
+      "options": [
+        { "id": "a", "text": "A private investment fund that uses complex strategies" },
+        { "id": "b", "text": "A mutual fund for small investors" },
+        { "id": "c", "text": "A government security" },
+        { "id": "d", "text": "A savings account" }
+      ],
+      "right_answer": "a",
+      "trivia": "Hedge funds use aggressive strategies like short selling and leverage to maximize investor returns."
+    },
+    {
+      "question_id": "Q4_5",
+      "question": "What is quantitative easing (QE)?",
+      "options": [
+        { "id": "a", "text": "A policy where central banks buy assets to inject money" },
+        { "id": "b", "text": "A tax reduction policy" },
+        { "id": "c", "text": "Government spending cuts" },
+        { "id": "d", "text": "Increasing bank reserve ratios" }
+      ],
+      "right_answer": "a",
+      "trivia": "QE is a monetary policy used by central banks to stimulate the economy by buying securities and increasing liquidity."
+    }
+  ],
+  "5": [
+    {
+      "question_id": "Q5_1",
+      "question": "What is the Sharpe Ratio used for?",
+      "options": [
+        { "id": "a", "text": "Measuring risk-adjusted returns" },
+        { "id": "b", "text": "Predicting stock prices" },
+        { "id": "c", "text": "Calculating tax liability" },
+        { "id": "d", "text": "Measuring inflation" }
+      ],
+      "right_answer": "a",
+      "trivia": "The Sharpe Ratio compares return relative to risk; a higher ratio means better risk-adjusted performance."
+    },
+    {
+      "question_id": "Q5_2",
+      "question": "What is the primary goal of fiscal policy?",
+      "options": [
+        { "id": "a", "text": "Control money supply" },
+        { "id": "b", "text": "Manage government spending and taxation" },
+        { "id": "c", "text": "Regulate stock markets" },
+        { "id": "d", "text": "Set interest rates" }
+      ],
+      "right_answer": "b",
+      "trivia": "Fiscal policy involves adjusting government expenditure and taxation to influence economic growth."
+    },
+    {
+      "question_id": "Q5_3",
+      "question": "What is a derivative in finance?",
+      "options": [
+        { "id": "a", "text": "A contract whose value depends on an underlying asset" },
+        { "id": "b", "text": "A company’s profit report" },
+        { "id": "c", "text": "A direct investment" },
+        { "id": "d", "text": "A government tax document" }
+      ],
+      "right_answer": "a",
+      "trivia": "Derivatives derive their value from underlying assets like stocks, bonds, or commodities and are used for hedging or speculation."
+    },
+    {
+      "question_id": "Q5_4",
+      "question": "What is a liquidity trap?",
+      "options": [
+        { "id": "a", "text": "When interest rates are low and savings rates are high, reducing spending" },
+        { "id": "b", "text": "A drop in stock market liquidity" },
+        { "id": "c", "text": "A shortage of cash reserves" },
+        { "id": "d", "text": "When banks refuse to lend money" }
+      ],
+      "right_answer": "a",
+      "trivia": "A liquidity trap occurs when monetary policy becomes ineffective due to very low interest rates and high saving tendencies."
+    },
+    {
+      "question_id": "Q5_5",
+      "question": "What is a credit default swap (CDS)?",
+      "options": [
+        { "id": "a", "text": "A type of insurance against bond default" },
+        { "id": "b", "text": "A government subsidy" },
+        { "id": "c", "text": "A mutual fund type" },
+        { "id": "d", "text": "A derivative for stock dividends" }
+      ],
+      "right_answer": "a",
+      "trivia": "A CDS allows investors to hedge against the risk of a borrower defaulting on a debt."
+    }
+  ],
+  "6": [
+    {
+      "question_id": "Q6_1",
+      "question": "What is arbitrage in finance?",
+      "options": [
+        { "id": "a", "text": "Profiting from price differences of the same asset in different markets" },
+        { "id": "b", "text": "Long-term investing in stocks" },
+        { "id": "c", "text": "Predicting future stock movements" },
+        { "id": "d", "text": "Currency depreciation" }
+      ],
+      "right_answer": "a",
+      "trivia": "Arbitrage exploits price discrepancies across markets, allowing traders to profit with minimal risk."
+    },
+    {
+      "question_id": "Q6_2",
+      "question": "What is Modern Portfolio Theory (MPT)?",
+      "options": [
+        { "id": "a", "text": "A theory about maximizing return for a given level of risk" },
+        { "id": "b", "text": "A method for calculating tax" },
+        { "id": "c", "text": "A type of market analysis" },
+        { "id": "d", "text": "A theory on inflation control" }
+      ],
+      "right_answer": "a",
+      "trivia": "MPT suggests that investors can design optimal portfolios by balancing expected returns against acceptable risk levels."
+    },
+    {
+      "question_id": "Q6_3",
+      "question": "What is the Black-Scholes model used for?",
+      "options": [
+        { "id": "a", "text": "Pricing options contracts" },
+        { "id": "b", "text": "Predicting inflation" },
+        { "id": "c", "text": "Setting interest rates" },
+        { "id": "d", "text": "Evaluating bonds" }
+      ],
+      "right_answer": "a",
+      "trivia": "The Black-Scholes model is a mathematical framework for estimating the fair price of options based on volatility and time."
+    },
+    {
+      "question_id": "Q6_4",
+      "question": "What is systemic risk?",
+      "options": [
+        { "id": "a", "text": "Risk affecting the entire financial system" },
+        { "id": "b", "text": "Risk unique to one company" },
+        { "id": "c", "text": "A government regulation" },
+        { "id": "d", "text": "A personal investment loss" }
+      ],
+      "right_answer": "a",
+      "trivia": "Systemic risk refers to the collapse risk of an entire financial system, not just a single entity."
+    },
+    {
+      "question_id": "Q6_5",
+      "question": "What does VaR (Value at Risk) represent?",
+      "options": [
+        { "id": "a", "text": "The maximum potential loss over a time period with a given confidence level" },
+        { "id": "b", "text": "Total investment return" },
+        { "id": "c", "text": "Expected interest earnings" },
+        { "id": "d", "text": "Risk-free rate" }
+      ],
+      "right_answer": "a",
+      "trivia": "VaR estimates how much an investment might lose in normal market conditions, helping institutions manage risk exposure."
+    }
+  ]
+}
